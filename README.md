@@ -171,4 +171,4 @@ Use only against systems you own or have permission to test.
 
 ## 📜 License
 
-[MIT License](LICENSE)
+[MIT License](https://github.com/1kb2/h2cSmuGGl?tab=MIT-1-ov-file)
