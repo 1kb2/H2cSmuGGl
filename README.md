@@ -1,6 +1,4 @@
-### `README.md`
 
-````markdown
 # h2cSmuGGl (Improved Fork of h2csmuggler)
 
 **h2cSmuGGl** is a Python 3 tool originally developed by [Bishop Fox](https://github.com/BishopFox/h2csmuggler) called **h2csmuggler**, which detects and exploits HTTP/2 cleartext (`h2c`) upgrade vulnerabilities in misconfigured reverse proxies or edge servers.
@@ -55,7 +53,7 @@ This version significantly improves upon the original **h2csmuggler** with these
 ```bash
 git clone https://github.com/1kb2/h2cSmuGGl.git
 cd h2cSmuGGl
-````
+
 
 2. Install dependencies:
 
